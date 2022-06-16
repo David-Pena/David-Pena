@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CooWeb LLC
 - 🌱 I’m currently learning Nuxt.JS
 - 💬 Contact me through email: dot@cooweb.co
-- ⚡ Visit my portfolio: (Working on it)
+- ⚡ Visit my portfolio: https://david-web-dev.web.app/
 
 <div>
   <a href="https://github.com/David-Pena"></a>
