@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CooWeb LLC
-- 🌱 I’m currently learning Nuxt.JS
+- 🌱 I’m currently learning React.JS
 - 💬 Contact me through email: dot@cooweb.co
 - ⚡ Visit my portfolio: https://david-web-dev.web.app/
 
