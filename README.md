@@ -7,6 +7,8 @@ Here are some ideas to get you started:
 - 💬 Contact me through email: dot@cooweb.co
 - ⚡ Visit my portfolio: https://david-web-dev.web.app/
 
+<h2 align="center">💻 Languages and Tools</h2>
+
 <div align="center">
 
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
