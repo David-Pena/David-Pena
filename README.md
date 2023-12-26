@@ -3,8 +3,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CooWeb LLC
-- 🌱 I’m currently learning React.JS
-- 💬 Contact me through email: dot@cooweb.co
+- 🌱 I’m currently learning React Native
+- 💬 Contact me through email: dev.davidpe@gmail.com
 - ⚡ Visit my portfolio: https://david-web-dev.web.app/
 
 <h2 align="center">💻 Languages and Tools</h2>
