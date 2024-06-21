@@ -24,13 +24,6 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-
-  <div>
-    <a href="https://github.com/David-Pena"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Pena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Pena&layout=compact&langs_count=16&theme=dracula" />
-  </div>
-  
 </div>  
 
 
