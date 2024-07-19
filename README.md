@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CooWeb LLC
 - 🌱 I’m currently learning Ionic Vue & GraphQL
 - 💬 Contact me through email: dev.davidpe@gmail.com
-- ⚡ Visit my portfolio: [https://davidpena.dev](https://davidpena.dev)
+- ⚡ Visit my portfolio: [davidpena.dev](https://davidpena.dev)
 
 <h2 align="center">💻 Languages and Tools</h2>
 
