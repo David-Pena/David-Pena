@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CooWeb LLC
-- 🌱 I’m currently learning Ionic Vue & GraphQL
+- 🌱 I’m currently learning Storybook
 - 💬 Contact me through email: dev.davidpe@gmail.com
 - ⚡ Visit my portfolio: [davidpena.dev](https://davidpena.dev)
 
