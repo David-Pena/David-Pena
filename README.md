@@ -1,3 +1,6 @@
+![gh-banner-gif](https://github.com/user-attachments/assets/f8531bb4-27ce-47b7-b7ec-64faea7848d2)
+
+
 ### Hi there, I'm David 👋
 
 Here are some ideas to get you started:
