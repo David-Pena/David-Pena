@@ -21,8 +21,8 @@
 #### 📚 Latest Blog Posts
 
 - [Effortless Refactoring in Vue.js: A Guide to Vue Mess Detector](https://medium.com/@_davidpena/effortless-refactoring-in-vue-js-a-guide-to-vue-mess-detector-1d64ea3e40cd)
-- [How to set up your Firebase project to deploy in two different hosting destinations](https://medium.com/@_davidpena/impacting-colombian-youth-with-tech-opportunities-f799ad6fa54e)
 - [Impacting Colombian Youth with Tech Opportunities](https://medium.com/@_davidpena/how-to-configure-your-firebase-project-to-deploy-in-two-different-hosting-destinations-d4cc5d925a96)
+- [How to set up your Firebase project to deploy in two different hosting destinations](https://medium.com/@_davidpena/impacting-colombian-youth-with-tech-opportunities-f799ad6fa54e)
 
 #### 💻 Technical Skills
   
