@@ -24,6 +24,11 @@
 - [Impacting Colombian Youth with Tech Opportunities](https://medium.com/@_davidpena/how-to-configure-your-firebase-project-to-deploy-in-two-different-hosting-destinations-d4cc5d925a96)
 - [How to set up your Firebase project to deploy in two different hosting destinations](https://medium.com/@_davidpena/impacting-colombian-youth-with-tech-opportunities-f799ad6fa54e)
 
+#### 🚀 Open Source Contributions
+
+- [Vue Mess Detector](https://github.com/rrd/vue-mess-detector) ~ A static code analysis tool for detecting code smells and best practice violations in Vue.js and Nuxt.js projects
+- [Vuejs Spanish Docs Translation](https://github.com/icarusgk/vuejs-spanish-docs) ~ Documentación de Vue 3 en español
+
 #### 💻 Technical Skills
   
 - <samp>Programming Languages</samp><br />
