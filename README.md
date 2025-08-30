@@ -13,7 +13,7 @@
 
 ### Hi there, I'm David 👋
 
-- 🔭 I’m currently working on CooWeb LLC
+- 🔭 I’m currently working on Insite AI
 - 🌱 I’m currently learning PHP
 - 💬 Contact me through email: dev.davidpe@gmail.com
 - ⚡ Visit my portfolio: [davidpena.dev](https://davidpena.dev)
